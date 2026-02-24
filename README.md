@@ -1,7 +1,5 @@
 # Slack UI Clone - Frontend
 
-[ [ [
-
 **Slack UI Clone** - Pixel-perfect recreation of Slack's messaging interface. Pure frontend implementation with **HTML5, CSS3 & Vanilla JavaScript**. **100% FREE to use** - fork, customize, deploy instantly!
 
 ## ✨ Features
