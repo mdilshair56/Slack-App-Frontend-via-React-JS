@@ -139,5 +139,5 @@ const channels = ['#general', '#random', '#projects'];
 ***
 
 <div align="center">
-⭐ **Star if you love Slack UI!** | **Fork & deploy your workspace!** | ✅ **100% Free**
+⭐ Star if you love Slack UI! | Fork & deploy your workspace! | ✅ 100% Free
 </div>
